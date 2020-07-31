@@ -1,0 +1,15 @@
+{
+  "name": "rdstats",
+  "version": "1.0.0",
+  "description": "Generates some stats about the rdlevel.",
+  "main": "Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "WillFlame",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^7.5.0",
+    "json5": "^2.1.3"
+  }
+}
